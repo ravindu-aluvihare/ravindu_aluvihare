@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ravindu_aluvihare/static/css/main.4d4f061d.css",
-    "main.js": "/ravindu_aluvihare/static/js/main.767171c0.js",
+    "main.js": "/ravindu_aluvihare/static/js/main.306e32be.js",
     "static/media/me.jpg": "/ravindu_aluvihare/static/media/me.fb1d363c9dee8515d0b3.jpg",
     "static/media/alc.png": "/ravindu_aluvihare/static/media/alc.45d3ca647e887f020e20.png",
     "static/media/news.png": "/ravindu_aluvihare/static/media/news.51439179fb611dbbc400.png",
@@ -12,10 +12,10 @@
     "static/media/math.png": "/ravindu_aluvihare/static/media/math.dda088e8d9f35030227c.png",
     "index.html": "/ravindu_aluvihare/index.html",
     "main.4d4f061d.css.map": "/ravindu_aluvihare/static/css/main.4d4f061d.css.map",
-    "main.767171c0.js.map": "/ravindu_aluvihare/static/js/main.767171c0.js.map"
+    "main.306e32be.js.map": "/ravindu_aluvihare/static/js/main.306e32be.js.map"
   },
   "entrypoints": [
     "static/css/main.4d4f061d.css",
-    "static/js/main.767171c0.js"
+    "static/js/main.306e32be.js"
   ]
 }
